@@ -15,7 +15,7 @@ This project showcases a Power BI dashboard developed to analyze credit card cus
 ## 📁 Files
 
 - `Credit Card Dashboard.pbix` – Complete Power BI dashboard file
-- 
+  
 ## 📷 Dashboard Preview
 
 ![Transaction](Transaction.jpg)
