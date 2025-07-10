@@ -19,7 +19,7 @@ This project showcases a Power BI dashboard developed to analyze credit card cus
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](Transaction.png)
 > _Replace with actual screenshot file or image link_
 
 ## 🚀 How to Use
